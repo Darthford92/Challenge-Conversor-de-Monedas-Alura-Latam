@@ -12,7 +12,6 @@ Permite convertir entre varias monedas usando la **ExchangeRate-API** y practica
   - Dólar (USD) ↔ Peso colombiano (COP)  
 - Menú en consola para seleccionar opciones de conversión.  
 - Manejo de **respuestas JSON** de la API con Gson.  
-- Histórico de conversiones.  
 
 ---
 
@@ -31,8 +30,5 @@ Permite convertir entre varias monedas usando la **ExchangeRate-API** y practica
 
 
 - Conversión realizada:  
-
-
-- Histórico de conversiones:  
 
 
